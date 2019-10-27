@@ -35,7 +35,7 @@ Iguatemi's campus floor plan.
 
 ### 2 - Sport fields
 
-3 sport fields (footbal, tennis and basketball).
+3 sport fields (football, tennis and basketball).
 
 <p align="center">
   <img src="https://i.imgur.com/oMaefvx.png" width="350" title="hover text">
